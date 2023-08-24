@@ -34,3 +34,37 @@ Contributions are welcome! If you find any issues or want to enhance the project
 If you have any questions or would like to collaborate, you can reach out to us at tirumals24@email.com.
 
 
+# Toxic Tweets Classification using NLP
+
+![Toxic Tweets](toxic_tweets_image.png) <!-- You can add an image related to your project -->
+
+Welcome to the Toxic Tweets Classification project repository! This project focuses on predicting the toxicity of tweets using Natural Language Processing (NLP) techniques.
+
+## Table of Contents
+
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model](#model)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Dataset
+
+The Toxic Tweets dataset comprises labeled tweets, categorized as either toxic (1) or non-toxic (0). This dataset is designed for training machine learning models to predict the toxicity level of tweets.
+
+You can find the dataset [here](https://www.kaggle.com/datasets/ashwiniyer176/toxic-tweets-dataset)
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have ideas for improvements, please feel free to open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions or suggestions, you can reach out to us at tirumals24@email.com.
+
+
+
