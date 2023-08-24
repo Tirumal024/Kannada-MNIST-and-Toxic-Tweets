@@ -18,6 +18,7 @@ This repository contains the code and resources for a machine learning project t
 
 The Kannada MNIST dataset is a collection of labeled images representing Kannada digits. Each image is a grayscale image of size 28x28 pixels. The dataset is an extension of the classic MNIST dataset but features Kannada digits instead of Hindu numerals.
 
-You can download the dataset from [this link]([insert_link_here](https://www.kaggle.com/datasets/higgstachyon/kannada-mnist)).
+You can download the dataset from [this link]((https://www.kaggle.com/datasets/higgstachyon/kannada-mnist)https://www.kaggle.com/datasets/higgstachyon/kannada-mnist).
+
 
 
