@@ -20,5 +20,17 @@ The Kannada MNIST dataset is a collection of labeled images representing Kannada
 
 You can download the dataset from [this link](https://www.kaggle.com/datasets/higgstachyon/kannada-mnist).
 
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance the project, feel free to open an issue or submit a pull request.
+
+
+## Acknowledgments
+
+    We acknowledge the creators of the Kannada MNIST dataset for providing valuable data for this project.
+
+## Contact
+
+If you have any questions or would like to collaborate, you can reach out to us at tirumals24@email.com.
 
 
